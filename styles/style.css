@@ -5,7 +5,7 @@
 }
 
 body {
-  font-family: "Muli", sans-serif;
+  font-family: Muli, sans-serif;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -49,7 +49,6 @@ body {
 .panel.active h3 {
   opacity: 1;
 }
-
 
 @media(max-width: 480px) {
   .container {
